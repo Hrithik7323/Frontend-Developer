@@ -1,0 +1,10 @@
+.red{
+    color: rgb(165, 42, 42);
+}
+.bg-yellow {
+    background-color: green;
+}
+#seconddiv{
+    color: rgb(255, 0, 174);
+    background-color: antiquewhite;
+}
